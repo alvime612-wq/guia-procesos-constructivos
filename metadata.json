@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de Construcción IA",
+  "description": "Una aplicación impulsada por IA que proporciona descripciones, pasos críticos y regulaciones aplicables para actividades de construcción, basado en resultados de búsqueda web, incluyendo una ilustración de referencia e historial de búsqueda.",
+  "requestFramePermissions": []
+}
